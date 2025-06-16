@@ -21,7 +21,7 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
     <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg" width="10%"/>
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" width="10%"/>
   </p>
 
 - **Ferramentas e Outros Conhecimentos**:  
