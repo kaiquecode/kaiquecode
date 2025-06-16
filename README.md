@@ -11,11 +11,11 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 - **Linguagens & Frameworks**:  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+  ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)  
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
   ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js)  
-  ![AdonisJS](https://img.shields.io/badge/-AdonisJS-purple?style=flat-square)  
+  ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg)  
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)  
 
 - **Ferramentas e Outros Conhecimentos**:  
