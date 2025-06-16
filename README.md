@@ -13,12 +13,15 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21~bgwhite.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="10%"/>
   </p>
 
 - **Ferramentas e Outros Conhecimentos**:  
@@ -61,16 +64,19 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 
 ## 📘 Cursos Complementares
 
-  - Curso Web Design Completo (HTML5, CSS3 e JS + 5 Projetos) (Completo)
-  - ![API REST com AdonisJS – Básico ao Avançado (Completo)](https://www.udemy.com/certificate/UC-cbb5c934-bfcb-41a1-b82c-d1a9d42ee264/)
-  - Junho de 2025 42hrs (Em andamento)
-      Udemy – AWS, na prática
-      Conteúdos: EC2, VPC, Route 53, S3, CloudWatch, CloudFront, AWS WAF, ECS, IAM
-  - Maio de 2025 (Em andamento)
-      DankiCode – PHP Jedai
-  - Junho de 2025 42hrs (Em andamento)
-      Udemy – C# Completo
-      Programação Orientada a Objetos + Projetos Práticos
+- 🎨 **Web Design Completo - Udemy** — HTML5, CSS3, JS + 5 Projetos *(Concluído)*
+- 🔗 **API REST com AdonisJS – Básico ao Avançado - Udemy** *(Concluído)*
+
+- ☁️ **AWS na Prática – Udemy** *(Em andamento)*  
+  Conteúdos: EC2, VPC, Route 53, S3, CloudWatch, CloudFront, AWS WAF, ECS, IAM  
+  🗓️ **Previsão de conclusão:** Julho de 2025
+
+- 🐘 **PHP Jedai – DankiCode** *(Em andamento)*  
+  🗓️ **Previsão de conclusão:** Julho de 2025 — **42 horas**
+
+- ⚙️ **C# Completo – Udemy** *(Em andamento)*  
+  Conteúdos: Programação Orientada a Objetos + Projetos Práticos  
+  🗓️ **Previsão de conclusão:** Julho de 2025
 
 ---
 
