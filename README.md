@@ -65,17 +65,18 @@ arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQ
 
 - **Web Design Completo - Udemy** — HTML5, CSS3, JS + 5 Projetos *(Concluído)*
 - **API REST com AdonisJS – Básico ao Avançado - Udemy** *(Concluído)*
+- **NextJS do zero ao avançado na pratica 2025 - Udemy** *(Concluído)*
 
 - **AWS na Prática – Udemy** *(Em andamento)*  
   Conteúdos: EC2, VPC, Route 53, S3, CloudWatch, CloudFront, AWS WAF, ECS, IAM  
-  **Previsão de conclusão:** Julho de 2025
+  **Previsão de conclusão:** Julho de 2025 — **42 horas**
 
 - **PHP Jedai – DankiCode** *(Em andamento)*  
-  **Previsão de conclusão:** Julho de 2025 — **42 horas**
+  **Previsão de conclusão:** Julho de 2025 
 
 - **C# Completo – Udemy** *(Em andamento)*  
   Conteúdos: Programação Orientada a Objetos + Projetos Práticos  
-  **Previsão de conclusão:** Julho de 2025
+  **Previsão de conclusão:** Julho de 2025 — **38 horas**
 
 ---
 
