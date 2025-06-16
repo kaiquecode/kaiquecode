@@ -10,15 +10,15 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 
 - **Linguagens & Frameworks**:
   <p>
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" width="25%"/>
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width="10%"/>
   </p>
 
 - **Ferramentas e Outros Conhecimentos**:  
