@@ -17,7 +17,7 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
   ![Nuxt.js](https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg)
   ![Vue.js](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)  
   ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg)  
-  ![Angular](https://www.vectorlogo.zone/logos/angularjs/angularjs-ar21.svg)  
+  ![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)  
 
 - **Ferramentas e Outros Conhecimentos**:  
   Chakra UI, Pinia, ContextAPI, REST APIs, JWT, Docker, AWS, Redis, MySQL, Git, GitHub, Android Studio, SQL...
