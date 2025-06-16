@@ -37,7 +37,7 @@ arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQ
   ● Criei uma loja online integrada utilizando Nuxt.js e Vue.js para pedidos e relatórios dinâmicos, otimizando o fluxo
   de vendas e gestão.<br>
   ● Desenvolvi dashboards interativos para análise de desempenho e indicadores estratégicos.<br>
-  Implementei APIs robustas com Node.js e AdonisJS, garantindo escalabilidade, segurança e manutenção eficiente.
+  ● Implementei APIs robustas com Node.js e AdonisJS, garantindo escalabilidade, segurança e manutenção eficiente.
   Atuei em todas as etapas do ciclo de desenvolvimento: arquitetura, codificação, testes automatizados e deploy em
   ambiente cloud.
 
