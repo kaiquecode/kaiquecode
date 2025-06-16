@@ -13,11 +13,11 @@ arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQ
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" width="10%"/>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21~bgwhite.svg" width="10%"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" width="10%"/>
-    <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21~bgwhite.svg" width="10%"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" width="10%"/>
