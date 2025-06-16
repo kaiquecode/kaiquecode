@@ -31,26 +31,26 @@ arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQ
 ## 💼 Experiências Recentes
 
 ### 🧑‍🍳 Plataforma de Gestão de Restaurantes (DeliveryAddress) (2024 - atual)
-  ● Desenvolvimento full stack de uma plataforma SaaS para gestão de restaurantes, desde a concepção até a
-  implementação, com mais de 80% do projeto concluído.<br>
-  ● Estruturei o painel administrativo utilizando Next.js e React.js, com foco em usabilidade e performance.<br>
-  ● Criei uma loja online integrada utilizando Nuxt.js e Vue.js para pedidos e relatórios dinâmicos, otimizando o fluxo
-  de vendas e gestão.<br>
-  ● Desenvolvi dashboards interativos para análise de desempenho e indicadores estratégicos.<br>
-  ● Implementei APIs robustas com Node.js e AdonisJS, garantindo escalabilidade, segurança e manutenção eficiente.
-  Atuei em todas as etapas do ciclo de desenvolvimento: arquitetura, codificação, testes automatizados e deploy em
-  ambiente cloud.
+    ● Desenvolvimento full stack de uma plataforma SaaS para gestão de restaurantes, desde a concepção até a
+    implementação, com mais de 80% do projeto concluído.<br>
+    ● Estruturei o painel administrativo utilizando Next.js e React.js, com foco em usabilidade e performance.<br>
+    ● Criei uma loja online integrada utilizando Nuxt.js e Vue.js para pedidos e relatórios dinâmicos, otimizando o fluxo
+    de vendas e gestão.<br>
+    ● Desenvolvi dashboards interativos para análise de desempenho e indicadores estratégicos.<br>
+    ● Implementei APIs robustas com Node.js e AdonisJS, garantindo escalabilidade, segurança e manutenção eficiente.
+    Atuei em todas as etapas do ciclo de desenvolvimento: arquitetura, codificação, testes automatizados e deploy em
+    ambiente cloud.
 
 ### 🍽️ Whatsmenu – Plataforma de pedidos online (2020 - 2023)
-  ● Desenvolvimento full stack de uma plataforma de pedidos e cardápios online, com foco em escalabilidade e
-  integração de sistemas.<br>
-  ● Criação e manutenção de APIs REST utilizando Node.js e Adonis.js, assegurando performance e segurança.<br>
-  ● Implementação de interfaces responsivas com AngularJS, React, Context API, Next.js e Bootstrap.<br>
-  ● Integração de comunicação em tempo real via WebSocket, melhorando a experiência do usuário e o tempo de
-  resposta do sistema.<br>
-  ● Automatização de impressão de pedidos com aplicação mobile em React Native.<br>
-  ● Gerenciamento de infraestrutura cloud com AWS (EC2, RDS) e automação de ambientes utilizando Docker.<br>
-  ● Participação ativa na definição de metodologias ágeis e na mentoria de novos desenvolvedores.
+    ● Desenvolvimento full stack de uma plataforma de pedidos e cardápios online, com foco em escalabilidade e
+    integração de sistemas.<br>
+    ● Criação e manutenção de APIs REST utilizando Node.js e Adonis.js, assegurando performance e segurança.<br>
+    ● Implementação de interfaces responsivas com AngularJS, React, Context API, Next.js e Bootstrap.<br>
+    ● Integração de comunicação em tempo real via WebSocket, melhorando a experiência do usuário e o tempo de
+    resposta do sistema.<br>
+    ● Automatização de impressão de pedidos com aplicação mobile em React Native.<br>
+    ● Gerenciamento de infraestrutura cloud com AWS (EC2, RDS) e automação de ambientes utilizando Docker.<br>
+    ● Participação ativa na definição de metodologias ágeis e na mentoria de novos desenvolvedores.
 
 ---
 
