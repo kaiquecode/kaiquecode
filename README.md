@@ -26,27 +26,49 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 
 ## 💼 Experiências Recentes
 
-### 🧑‍🍳 Plataforma de Gestão de Restaurantes (2024 - atual)
-Desenvolvimento **full-cycle** de um sistema completo para restaurantes: gestão de pedidos, cardápios, relatórios, painéis e integração com balança.  
-**Stack:** Next.js, Node.js, AdonisJS, Chakra UI, Redis, JWT, Docker, AWS, Pinia.
+### 🧑‍🍳 Plataforma de Gestão de Restaurantes (DeliveryAddress) (2024 - atual)
+  ● Desenvolvimento full stack de uma plataforma SaaS para gestão de restaurantes, desde a concepção até a
+  implementação, com mais de 80% do projeto concluído.
+  ● Estruturei o painel administrativo utilizando Next.js e React.js, com foco em usabilidade e performance.
+  ● Criei uma loja online integrada utilizando Nuxt.js e Vue.js para pedidos e relatórios dinâmicos, otimizando o fluxo
+  de vendas e gestão.
+  ● Desenvolvi dashboards interativos para análise de desempenho e indicadores estratégicos.
+  Implementei APIs robustas com Node.js e AdonisJS, garantindo escalabilidade, segurança e manutenção eficiente.
+  Atuei em todas as etapas do ciclo de desenvolvimento: arquitetura, codificação, testes automatizados e deploy em
+  ambiente cloud.
 
 ### 🍽️ Whatsmenu – Plataforma de pedidos online (2020 - 2023)
-Responsável por novas features, melhorias e integrações em app de delivery white-label usado por vários restaurantes.  
-**Stack:** Node.js, AdonisJS, AngularJS, React, Bootstrap, Redis, AWS, React Native.
+  ● Desenvolvimento full stack de uma plataforma de pedidos e cardápios online, com foco em escalabilidade e
+  integração de sistemas.
+  ● Criação e manutenção de APIs REST utilizando Node.js e Adonis.js, assegurando performance e segurança.
+  ● Implementação de interfaces responsivas com AngularJS, React, Context API, Next.js e Bootstrap.
+  ● Integração de comunicação em tempo real via WebSocket, melhorando a experiência do usuário e o tempo de
+  resposta do sistema.
+  ● Automatização de impressão de pedidos com aplicação mobile em React Native.
+  ● Gerenciamento de infraestrutura cloud com AWS (EC2, RDS) e automação de ambientes utilizando Docker.
+  ● Participação ativa na definição de metodologias ágeis e na mentoria de novos desenvolvedores.
 
 ---
 
 ## 📚 Formação
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-2020 – USJT (incompleto)
+  **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+  2020 – USJT Universidade São Judas Tadeu (incompleto)
 
 ---
 
 ## 📘 Cursos Complementares
 
-- Curso Web Design Completo (HTML5, CSS3 e JS + 5 Projetos)  
-- API REST com AdonisJS – Básico ao Avançado
+  - Curso Web Design Completo (HTML5, CSS3 e JS + 5 Projetos) (Completo)
+  - API REST com AdonisJS – Básico ao Avançado (Completo)
+  - Junho de 2025 42hrs (Em andamento)
+      Udemy – AWS, na prática
+      Conteúdos: EC2, VPC, Route 53, S3, CloudWatch, CloudFront, AWS WAF, ECS, IAM
+  - Maio de 2025 (Em andamento)
+      DankiCode – PHP Jedai
+  - Junho de 2025 42hrs (Em andamento)
+      Udemy – C# Completo
+      Programação Orientada a Objetos + Projetos Práticos
 
 ---
 
