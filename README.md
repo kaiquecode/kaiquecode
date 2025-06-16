@@ -10,7 +10,7 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 
 - **Linguagens & Frameworks**:  
   ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)  
-  ![TypeScript](https://www.vectorlogo.zone/logos/typescript/typescript-ar21.svg)  
+  ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)  
   ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)  
   ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)  
   ![Next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg)  
