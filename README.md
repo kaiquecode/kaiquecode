@@ -1,9 +1,7 @@
 # 👋 E aí! Eu sou o Kaique Fabricio
 
-Sou um desenvolvedor **Full Stack** que curte transformar ideias em código funcional (e bonito, se possível 😎). Tenho vivência com React, Node, TypeScript, Next.js, AdonisJS, e uma quedinha por arquitetura limpa e boas práticas.
-
-Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por conta própria – do zero, na raça. Já atuei como dev pleno na área, criando sistemas que rodaram em produção e impactaram milhares de usuários.
-
+Desenvolvedor Full Stack com foco em Node.js, TypeScript. Experiência em projetos web (React, Angular, Vue, Next.js, Nuxt.js) e mobile (React Native, Ionic). Conhecimento avançado em APIs REST, integração de sistemas, WebSocket e
+arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQL e SQL. Perfil analítico, proativo e orientado a resultados. Atualmente, me especializando em AWS com foco em certificações e prática em serviços cloud.
 ---
 
 ## 🚀 Stack que me acompanha no dia a dia
