@@ -8,16 +8,18 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 
 ## 🚀 Stack que me acompanha no dia a dia
 
-- **Linguagens & Frameworks**:  
-  ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)  
-  ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)  
-  ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)  
-  ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)  
-  ![Next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg)  
-  ![Nuxt.js](https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg)
-  ![Vue.js](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)  
-  ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg)  
-  ![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)  
+- **Linguagens & Frameworks**:
+  <p>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg" width="25%"/>
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width="25%"/>
+  </p>
 
 - **Ferramentas e Outros Conhecimentos**:  
   Chakra UI, Pinia, ContextAPI, REST APIs, JWT, Docker, AWS, Redis, MySQL, Git, GitHub, Android Studio, SQL...
