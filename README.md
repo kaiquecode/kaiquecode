@@ -60,7 +60,7 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 ## 📘 Cursos Complementares
 
   - Curso Web Design Completo (HTML5, CSS3 e JS + 5 Projetos) (Completo)
-  - API REST com AdonisJS – Básico ao Avançado (Completo)
+  - ![API REST com AdonisJS – Básico ao Avançado (Completo)](https://www.udemy.com/certificate/UC-cbb5c934-bfcb-41a1-b82c-d1a9d42ee264/)
   - Junho de 2025 42hrs (Em andamento)
       Udemy – AWS, na prática
       Conteúdos: EC2, VPC, Route 53, S3, CloudWatch, CloudFront, AWS WAF, ECS, IAM
