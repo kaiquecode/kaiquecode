@@ -9,14 +9,15 @@ Atualmente estou desenvolvendo uma plataforma de gestão de restaurantes por con
 ## 🚀 Stack que me acompanha no dia a dia
 
 - **Linguagens & Frameworks**:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
-  ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js)  
-  ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg)  
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)  
+  ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)  
+  ![TypeScript](https://www.vectorlogo.zone/logos/typescript/typescript-ar21.svg)  
+  ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)  
+  ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)  
+  ![Next.js](https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg)  
+  ![Nuxt.js](https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg)
+  ![Vue.js](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)  
+  ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-ar21.svg)  
+  ![Angular](https://www.vectorlogo.zone/logos/angularjs/angularjs-ar21.svg)  
 
 - **Ferramentas e Outros Conhecimentos**:  
   Chakra UI, Pinia, ContextAPI, REST APIs, JWT, Docker, AWS, Redis, MySQL, Git, GitHub, Android Studio, SQL...
