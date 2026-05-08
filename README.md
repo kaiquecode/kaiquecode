@@ -30,7 +30,17 @@ arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQ
 
 ## 💼 Experiências Recentes
 
-### 🧑‍🍳 Plataforma de Gestão de Restaurantes (DeliveryAddress) (2024 - atual)
+### 🚀 Plataforma SaaS de Campanhas e Monetização de Conteúdo (jun/2025 - atual)
+  - Atuação como Desenvolvedor Full Stack PJ em uma plataforma SaaS voltada para campanhas pagas, divulgação de conteúdos e monetização baseada em métricas de visualização.<br>
+  - Desenvolvimento de interfaces com React.js, TanStack, Zustand e Zod, com foco em organização de estado, validação de dados e experiência do usuário.<br>
+  - Criação e manutenção de APIs com Node.js, estruturando fluxos relacionados a campanhas, saldo, métricas, usuários e integrações externas.<br>
+  - Implementação de rotinas assíncronas com Redis, filas e cron jobs para processamento em background e contabilização periódica de métricas.<br>
+  - Apoio na integração com redes sociais e no desenvolvimento de fluxos para conexão de contas, envio de links de conteúdo e acompanhamento de resultados.<br>
+  - Utilização de Docker e AWS para suporte à infraestrutura, deploy e manutenção da aplicação em ambiente cloud.<br>
+  - Atuação tanto no front-end quanto no back-end, participando da evolução do produto, correção de problemas, criação de novas funcionalidades e melhoria contínua da plataforma.
+
+
+### 🧑‍🍳 Plataforma de Gestão de Restaurantes (DeliveryAddress) 2024
   - Desenvolvimento full stack de uma plataforma SaaS para gestão de restaurantes, desde a concepção até a
   implementação, com mais de 80% do projeto concluído.<br>
   - Estruturei o painel administrativo utilizando Next.js e React.js, com foco em usabilidade e performance.<br>
