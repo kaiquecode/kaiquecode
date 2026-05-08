@@ -100,4 +100,4 @@ arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQ
 
 ## 📊 GitHub Stats
 
-![Kaique Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquefabricio&show_icons=true&theme=tokyonight)
+![Kaique Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquecode&show_icons=true&theme=tokyonight)
