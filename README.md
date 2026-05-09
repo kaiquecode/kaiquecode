@@ -1,7 +1,7 @@
 # 👋 E aí! Eu sou o Kaique Fabricio
 
 Desenvolvedor Full Stack com foco em Node.js, TypeScript. Experiência em projetos web (React, Angular, Vue, Next.js, Nuxt.js) e mobile (React Native, Ionic). Conhecimento avançado em APIs REST, integração de sistemas, WebSocket e
-arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3) e bancos MySQL e SQL. Perfil analítico, proativo e orientado a resultados. Atualmente, me especializando em AWS com foco em certificações e prática em serviços cloud.
+arquitetura escalável. Conhecimento em Docker, AWS (EC2, RDS, S3, SQS, DynamoDB, etc) e bancos MySQL e SQL. Perfil analítico, proativo e orientado a resultados. Atualmente, me especializando em AWS com foco em certificações e prática em serviços cloud.
 
 ---
 
